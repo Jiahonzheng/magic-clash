@@ -1,3 +1,9 @@
+cache.db
+Country.mmdb
+logs/
+bin/
+!bin/.gitkeep
+
 # Created by https://www.toptal.com/developers/gitignore/api/linux,windows,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,windows,macos
 
